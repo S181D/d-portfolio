@@ -23,6 +23,7 @@
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
     background-repeat: no-repeat;
     background-position: bottom right, left;
+    
 }
 
 /* header and navigation styles */
@@ -51,7 +52,7 @@ nav li {
 .banner {
     display: flex;
     align-items: center;
-    margin: 0 200xp;
+    margin: 0 200px;
 }
 
 .banner-title {
